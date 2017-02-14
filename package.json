@@ -1,0 +1,9 @@
+{
+  "name": "react-redux-boilerplate-webpack2",
+  "version": "1.0.0",
+  "description": "boilerplate for react-redux with webpack2",
+  "main": "server.js",
+  "repository": {},
+  "author": "Ronolibert@gmail.com",
+  "license": "MIT"
+}
